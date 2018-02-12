@@ -1,6 +1,6 @@
 ## Churn Modelling Problem
 
-**Business Problem Description:**
+**Business Problem Description:**<br>
 This is data analytics challenge for a bank. A dataset with a large sample of the bank's customers is given. <br>
 The gathered information contains customer id, credit score, gender, age, tenure, balance, if the customer is active, has a credit card, etc. <br>
 The data corresponds to a period of 6 months, where the bank observed if these customers left or stayed in the bank. 
